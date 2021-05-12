@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Covid-19 Vax Tracker](/public/front.gif)
 
-Simple React Covid-19 world vaccination data tracker, made with Context.
+Simple ReactJs Covid-19 world vaccination data tracker, made with Context.
 
 ## 📚 Stack
 * [ReactJs](https://reactjs.org/)
