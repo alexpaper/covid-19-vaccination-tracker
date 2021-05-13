@@ -20,7 +20,6 @@ React.useEffect(()=>{
     }
 },[state])
 
-
 // On Change Handler
 const onChangeHandler = e =>{
     // console.log(e.target.value);
